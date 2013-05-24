@@ -4,10 +4,10 @@
 #define LIBUSB_MAJOR 1
 #endif
 #ifndef LIBUSB_MINOR
-#define LIBUSB_MINOR 0
+#define LIBUSB_MINOR 2
 #endif
 #ifndef LIBUSB_MICRO
-#define LIBUSB_MICRO 16
+#define LIBUSB_MICRO 0
 #endif
 #ifndef LIBUSB_NANO
 #define LIBUSB_NANO 0
